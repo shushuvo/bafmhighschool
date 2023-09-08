@@ -1,0 +1,3 @@
+# bafmhighschool
+
+node index.js
